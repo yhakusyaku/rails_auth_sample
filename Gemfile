@@ -38,3 +38,10 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# User Authorization
+gem 'devise'
+gem 'cancancan'
+
+# form helper
+gem 'enum_help'
+
